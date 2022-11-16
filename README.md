@@ -1,7 +1,7 @@
-# TinDog
+# TinDog 🐩
 Udemy Web Development Course - Creating TinDog (tinder for dogs)
 
-A fun project by Angela to have more hands-on experience with Bootstrap and developing user interfaces
+✨ A fun project by Angela to have more hands-on experience with Bootstrap and building user interfaces with just HTML and CSS
 
 
 ![image](https://user-images.githubusercontent.com/52782039/202239272-e60bbb35-33b7-4b45-8e7b-9583fb5438ff.png)
